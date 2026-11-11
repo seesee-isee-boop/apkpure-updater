@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Flèche de téléchargement dans un bac. Zone sûre des icônes adaptatives : 66x66 au centre de 108x108. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,32h8v20h10l-14,16l-14,-16h10z" />
+    <path
+        android:pathData="M36,64v10a3,3 0,0 0,3 3h30a3,3 0,0 0,3 -3v-10"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeWidth="5" />
+</vector>
